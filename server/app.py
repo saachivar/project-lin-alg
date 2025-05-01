@@ -4,6 +4,7 @@ from PIL import Image
 import numpy as np
 import os
 
+
 app = Flask(__name__)
 CORS(app, resources={r"/compress": {"origins": "http://localhost:3000"}})
 
