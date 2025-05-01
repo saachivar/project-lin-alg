@@ -1,4 +1,4 @@
-# 🧠 Linear Algebra Image Compression Tool
+# Linear Algebra Image Compression Tool
 
 This project is a web-based image compression tool that demonstrates how **Singular Value Decomposition (SVD)** — a fundamental linear algebra technique — can be applied to compress images by reducing their rank.
 
