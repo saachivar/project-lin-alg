@@ -6,7 +6,7 @@ Users can upload an image, select the number of singular values \( k \) to retai
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Frontend**: React
 - **Backend**: Python (Flask)
@@ -18,7 +18,7 @@ Users can upload an image, select the number of singular values \( k \) to retai
 
 ---
 
-## 🚀 How It Works
+## How It Works
 
 1. User uploads an image via the React frontend.
 2. Image is sent to the Flask backend.
@@ -34,7 +34,7 @@ Users can upload an image, select the number of singular values \( k \) to retai
 
 ---
 
-## 🧪 Run Locally
+## Run Locally
 
 ### 1. Clone the repo
 ```bash
